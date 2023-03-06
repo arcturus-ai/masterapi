@@ -1,0 +1,46 @@
+[06-Mar-2023 07:25:18 UTC] PHP Parse error:  Unmatched '}' in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 438
+[06-Mar-2023 07:26:01 UTC] PHP Parse error:  Unmatched '}' in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 438
+[06-Mar-2023 07:35:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:35:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:35:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:35:34 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:36:12 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:37:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and date BETWEEN '2022-10-03' and '2023-02-28' ORDER BY time Desc LIMIT 0,20' at line 1 in /home/arcturu/public_html/master/Scaffolding/scaffolding.php:430
+Stack trace:
+#0 /home/arcturu/public_html/master/Scaffolding/scaffolding.php(430): PDOStatement->execute()
+#1 /home/arcturu/public_html/master/Scaffolding/viewResult.php(13): Scaffolding->abc()
+#2 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/scaffolding.php on line 430
+[06-Mar-2023 07:54:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/arcturu/public_html/master/Scaffolding/viewResult.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/viewResult.php on line 18
+[06-Mar-2023 09:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function rowCount() on null in /home/arcturu/public_html/master/Scaffolding/viewResult.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/arcturu/public_html/master/Scaffolding/viewResult.php on line 18

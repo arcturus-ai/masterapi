@@ -1,0 +1,4 @@
+[06-Sep-2022 19:00:36 UTC] PHP Notice:  Undefined index: api_key in /home/arcturu/public_html/absl_api/simpleregister.php on line 10
+[06-Sep-2022 19:00:36 UTC] PHP Notice:  Undefined index: email in /home/arcturu/public_html/absl_api/simpleregister.php on line 13
+[21-Nov-2022 09:31:21 UTC] PHP Warning:  Undefined array key "api_key" in /home/arcturu/public_html/absl_api/simpleregister.php on line 10
+[21-Nov-2022 09:31:21 UTC] PHP Warning:  Undefined array key "email" in /home/arcturu/public_html/absl_api/simpleregister.php on line 13
